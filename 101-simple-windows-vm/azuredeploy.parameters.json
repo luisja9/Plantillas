@@ -6,10 +6,10 @@
       "value": "ohmgstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "sysadmin"
     },
     "adminPassword": {
-      "value": "Passw0rd!"
+      "value": "Passw0rd"
     },
     "dnsNameForPublicIP": {
       "value": "ohmg6685"
